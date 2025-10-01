@@ -7,7 +7,7 @@ workers_dev = true
 [vars]
 UUID = "4b99ce68-3bce-4ccf-9ab4-d2e2b070a7f3"
 TR_PASS = "bAb?5OGzHT3RjZoo"
-SUB_PATH = "MC_pNH17DNPJSEY4“
+SUB_PATH = "MC_pNH17DNPJSEY4"
 # KV 命名空间绑定
 [[kv_namespaces]]
 binding = "kv"

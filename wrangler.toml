@@ -3,3 +3,12 @@ main = "_worker.js"
 compatibility_date = "2024-04-28"
 usage_model = "bundled"
 workers_dev = true
+# 环境变量
+[vars]
+UUID = "4b99ce68-3bce-4ccf-9ab4-d2e2b070a7f3"
+TR_PASS = "bAb?5OGzHT3RjZoo"
+SUB_PATH = "MC_pNH17DNPJSEY4“
+# KV 命名空间绑定
+[[kv_namespaces]]
+binding = "kv"
+id = "221aa10f273643b8827ceff90dfd0c22"
